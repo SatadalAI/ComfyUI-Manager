@@ -19235,18 +19235,11 @@
     "https://github.com/SatadalAI/SATA_UtilityNode": [
         [
             "Latent Machine",
-            "Latent_Machine",
             "Preview Machine",
-            "Preview_Machine",
             "Prompt Autocomplete",
             "Prompt Machine",
-            "PromptAutocomplete",
-            "Prompt_Machine",
             "Resolution Machine",
-            "Resolution_Machine",
             "Save Machine",
-            "Save_Machine",
-            "Upscale Machine",
             "Upscale_Machine"
         ],
         {
